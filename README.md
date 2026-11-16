@@ -12,4 +12,4 @@ run them.
 
 | Lecture | Notebook |
 |---|---|
-| 1 · Orchestrating agents for scientific workflows (NASA Cosmic Origins AI/ML STIG lecture series, 16 November 2026) | [`class01/lecture01.ipynb`](class01/lecture01.ipynb): orchestration patterns built in LangGraph, measured; [`class01/lecture01_cmbagent_lg.ipynb`](class01/lecture01_cmbagent_lg.ipynb): the same analysis with [cmbagent_lg](https://github.com/CMBAgents/cmbagent/tree/lg), traced with Langfuse |
+| 0 · Orchestrating agents for scientific workflows (NASA Cosmic Origins AI/ML STIG lecture series, 16 November 2026) | [`class01/lecture01_single_agent.ipynb`](class01/lecture01_single_agent.ipynb): the single LangGraph agent<br>[`class01/lecture01_cmbagent_lg.ipynb`](class01/lecture01_cmbagent_lg.ipynb): [cmbagent_lg](https://github.com/CMBAgents/cmbagent), traced with Langfuse<br>[`class01/lecture01_opencode.ipynb`](class01/lecture01_opencode.ipynb): OpenCode with a reviewer subagent, traced with Langfuse |
